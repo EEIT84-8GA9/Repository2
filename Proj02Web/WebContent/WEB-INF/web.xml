@@ -8,7 +8,14 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
+
     <welcome-file>5566</welcome-file>
+
+
   </welcome-file-list>
+
   
+=======
+
+>>>>>>> branch 'master' of https://github.com/EEIT84-8GA9/Repository2.git
 </web-app>
