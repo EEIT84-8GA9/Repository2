@@ -8,12 +8,17 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
-
-    <welcome-file>5566</welcome-file>
-
-
-  </welcome-file-list>
-
+    <welcome-file>5566</welcome-file></welcome-file-list>
   
+  <servlet>
+  <servlet-name>Servlet11</servlet-name>
+  <servlet-class>model.Servlet1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>Servlet11</servlet-name>
+  <url-pattern>/model/Servlet1</url-pattern>
+  </servlet-mapping>
 
+ 
 </web-app>
+

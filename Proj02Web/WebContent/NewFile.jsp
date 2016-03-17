@@ -7,7 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
+ HEAD
 我超狂  霸氣   城哥.....
+=======
+
+<h2><a href="model/Servlet1">pp</a></h2>
+
+<h4>我超狂  霸氣</h4>
+
+>>>>>>> branch 'master' of https://github.com/EEIT84-8GA9/Repository2.git
 
 
 </body>
