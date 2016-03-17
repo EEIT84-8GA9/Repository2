@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-我超狂 
+<h2><a href="model/Servlet1">pp</a></h2>
 
 
 </body>
